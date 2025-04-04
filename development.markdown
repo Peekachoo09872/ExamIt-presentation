@@ -60,3 +60,19 @@ title: Development Experience
     Moving forward, we learned that defining common interfaces early in development is essential. It helps ensure consistency across different parts of the system and reduces redundant work. In our final iteration, we successfully tried this by specifying expected interfaces in advance, which allowed teammates to implement their components independently — while still staying aligned.
   </p>
 </section>
+
+<!-- #### What Could Have Been Done to Solve This
+Before digging into branches, we should design the structure together and come up with interfaces for the classes. This way we can always expect certain behaviours from classes that are designed by others without seeing the actual code. This strategy was being tried during the last week and it worked as a great explanation to tell people what the requirements are for their classes.
+
+### Reflections from Retrospectives
+- Sprint reviews helped us continuously refine our work.
+- Regular stand-ups kept everyone aligned.
+- Better task estimation is a priority for future projects.
+
+### Other Technologies Used
+- Markwon: A markdown formatter native to android. Allowed us to develop markdown formatted Study Guides. Also used to create a formatter for importing flashcards into Study Guides
+- Material Design 3: Google's component pack for android development.
+
+### What changed from iteration 0-3
+
+### What we learned about large project development -->
